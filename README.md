@@ -1,2 +1,2 @@
-# Damage-Signal-and-Secondary-Infection-in-Inflammasome-Activation-in-COVID-19
-Code used to generate results and Figures on the manuscript 'Damage Signal and Secondary Infection in Inflammasome Activation in COVID-19'
+# An epithelial-immune circuit amplifies inflammasome and IL-6 responses to SARS-CoV-2
+Code used to generate results and Figures on the manuscript 'An epithelial-immune circuit amplifies inflammasome and IL-6 responses to SARS-CoV-2'
